@@ -14,6 +14,7 @@ const Index=()=>{
             <p>This is in main</p>
 
             <h2 className={MainStyle.test}>Hello Tim</h2>
+            {/*adding this note for branching to testArea*/}
 
         </div>
     )
